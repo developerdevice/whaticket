@@ -68,7 +68,7 @@ const messages = {
           tryAgain: "Try Again",
           qrcode: "QR CODE",
           newQr: "New QR CODE",
-          connecting: "Connectiing",
+          connecting: "Connecting",
         },
         toolTips: {
           disconnected: {
@@ -77,15 +77,15 @@ const messages = {
               "Make sure your cell phone is connected to the internet and try again, or request a new QR Code",
           },
           qrcode: {
-            title: "Waiting for QR Code read",
+            title: "Waiting for QR Code reading",
             content:
-              "Click on 'QR CODE' button and read the QR Code with your cell phone to start session",
+              "Click on 'QR CODE' button and read the QR Code with your cell phone to start a session",
           },
           connected: {
             title: "Connection established",
           },
           timeout: {
-            title: "Connection with cell phone has been lost",
+            title: "Connection with a cell phone has been lost",
             content:
               "Make sure your cell phone is connected to the internet and WhatsApp is open, or click on 'Disconnect' button to get a new QRcode",
           },
